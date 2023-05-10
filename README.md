@@ -1,0 +1,1 @@
+# azd-starter-bicep-core
